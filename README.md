@@ -1,10 +1,10 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - *Create your Crewmate*
 
-Submitted by: **Your Name Here**
+Submitted by: **Y Banh**
 
-This web app: **insert description**
+This web app: **Allows users to create their own crewmate with different: names, colors and superpowers**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -15,38 +15,22 @@ The following **required** functionality is completed:
 - [x] **The site displays a summary page of all the user's added crewmates**
 - [x] **A previously created crewmate can be updated from the crewmate list**
 - [x] **A previously created crewmate can be deleted from the crewmate list**
-- [ ] **Each crewmate has a direct, unique link to an info page about them**
-
-The following **optional** features are implemented:
-
-- [ ] A crewmate can be given a category upon creation which restricts their attributes
-- [ ] The site displays summary statistics about a user's crew on their crew page 
-- [ ] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
+- [x] **Each crewmate has a direct, unique link to an info page about them**
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.loom.com/share/4be268b2e9c94c39a178a5b9dbbc7585?sid=3a196840-c61e-4e45-bf88-6c58070e625b
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Using supabase was surprisingly easy; however, I still found it a little bit confusing using routes but I got the hang of it eventually after this project. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Y Banh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
