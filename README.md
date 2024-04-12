@@ -2,7 +2,7 @@
 
 Submitted by: **Y Banh**
 
-This web app: **Allows users to create their own crewmate with different: names, colors and superpowers**
+This web app: **Allows users to create their own crewmate with different: names, colors, and superpowers**
 
 Time spent: **5** hours spent in total
 
